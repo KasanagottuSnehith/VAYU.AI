@@ -80,18 +80,6 @@ npm start
 
 ---
 
-## 📸 Demo Screenshots
-
-> *(Add screenshots of your dashboard here)*
-
----
-
-## 🎥 Demo Video
-
-> *(Add Google Drive link to demo video here)*
-
----
-
 ## 🌍 Impact
 
 - **Real-time visibility** into urban air quality for city authorities
